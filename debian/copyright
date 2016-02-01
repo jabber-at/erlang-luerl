@@ -4,7 +4,8 @@ Source: https://github.com/rvirding/luerl
 
 Files: *
 Copyright: 2014-2015 Robert Virding <rvirding@gmail.com>
-           2015-2015 Hans-Christian Esperer <hc@hcesperer.org>
+           2015 Hans-Christian Esperer <hc@hcesperer.org>
+	   2015 Henning Diedrich <hd2010@eonblast.com>
 License: Apache-2.0
 
 Files: examples/benchmark/suites/*
