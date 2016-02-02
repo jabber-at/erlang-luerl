@@ -2,8 +2,8 @@ Source: erlang-luerl
 Section: libs
 Priority: optional
 Maintainer: Philipp Huebner <debalance@debian.org>
-Build-Depends: debhelper (>= 9), dh-rebar, erlang-eunit, erlang-syntax-tools
-Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9), dh-rebar, erlang-eunit, erlang-parsetools, erlang-syntax-tools
+Standards-Version: 3.9.7
 Homepage: https://github.com/rvirding/luerl
 Vcs-Git: https://anonscm.debian.org/git/users/debalance/erlang-luerl.git
 Vcs-Browser: https://anonscm.debian.org/git/users/debalance/erlang-luerl.git

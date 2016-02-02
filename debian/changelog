@@ -1,5 +1,5 @@
 erlang-luerl (0.2015.12.10-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)
+  * Initial release (Closes: #813504)
 
- -- Philipp Huebner <debalance@debian.org>  Mon, 01 Feb 2016 18:51:01 +0100
+ -- Philipp Huebner <debalance@debian.org>  Tue, 02 Feb 2016 17:04:03 +0100
